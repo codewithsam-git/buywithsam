@@ -1,0 +1,31 @@
+.custom-navbar {
+    background-color: white;
+    box-shadow: 0px 2px 6px 0px rgba(73, 49, 157, 0.5);
+    padding: 0.05rem 5px; /* Reduce padding */
+}
+
+.custom-navbar .navbar-brand {
+    color: #343a40;
+    font-size: 1rem; 
+    padding-left: 10px; 
+}
+
+.custom-navbar .nav-link {
+    color: #343a40;
+    font-size: 1rem; 
+    padding: 4px 1.2rem; 
+}
+
+.custom-navbar .nav-link:hover {
+    color: #ffc107 !important;
+}
+
+.user-icon {
+    font-size: 1.1rem; /* Adjust size */
+    font-weight: 600;
+    vertical-align: middle; /* Align properly */
+}
+
+.user-icon:hover {
+    color: #ffc107 !important;  /* Change color on hover */
+}
